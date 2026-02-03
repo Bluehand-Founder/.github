@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👋 SK네트웍스 Family AI 캠프 26기 👋
 
 <!--
 
@@ -10,3 +10,5 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+
+![](https://cdn.imweb.me/upload/S20240314bd10436a7991a/41a9769cc44e6.png)
